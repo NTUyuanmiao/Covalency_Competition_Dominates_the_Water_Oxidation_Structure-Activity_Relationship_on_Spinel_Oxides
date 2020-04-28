@@ -1,0 +1,2 @@
+# Covalency_Competition_Dominates_the_Water_Oxidation_Structure-Activity_Relationship_on_Spinel_Oxides
+ML codes
